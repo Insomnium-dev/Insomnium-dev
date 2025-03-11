@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Daniil</h1>
-- 🌱 I’m currently learning **Django**
-
 - 📫 How to reach me **wheconn@gmail.com**
 
 <p align="left">
