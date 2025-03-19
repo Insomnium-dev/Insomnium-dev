@@ -46,17 +46,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Insomnium-dev/count.svg?"  />
-</div>
-
 ###
-<div align="center">
-  <a href="https://open.spotify.com/user/ebanath">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ebanath&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Insomnium-dev.Insomnium-dev&"  />
