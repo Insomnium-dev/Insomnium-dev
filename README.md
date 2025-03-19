@@ -59,7 +59,16 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Insomnium-dev/Insomnium-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312xnxxscp2eet4renbz22dmloju)
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ebanath">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ebanath&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312xnxxscp2eet4renbz22dmloju&count={1})
 ###
 
 
