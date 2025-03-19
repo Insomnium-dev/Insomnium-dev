@@ -46,7 +46,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Insomnium-dev/count.svg?"  />
@@ -60,6 +59,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Insomnium-dev/Insomnium-dev/output/pacman-contribution-graph.svg">
 </picture>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312xnxxscp2eet4renbz22dmloju)
 ###
 
 
