@@ -52,23 +52,17 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Insomnium-dev/Insomnium-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Insomnium-dev/Insomnium-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Insomnium-dev/Insomnium-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/ebanath">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ebanath&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Insomnium-dev.Insomnium-dev&"  />
+</div>
+
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312xnxxscp2eet4renbz22dmloju&count={1})
 ###
 
 
