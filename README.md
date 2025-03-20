@@ -50,8 +50,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Insomnium-dev.Insomnium-dev&"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Insomnium-dev/Insomnium-dev/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
