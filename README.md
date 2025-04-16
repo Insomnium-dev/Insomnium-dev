@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Daniil and I'm a Backend Developer!</h2>
 
 ###
-
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Insomnium-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 </div>
 
 ###
