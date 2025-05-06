@@ -22,7 +22,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Insomnium-dev.Insomnium-dev&"  />
 </div>
-<a href="https://www.leetcode.com/haranski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haranski" height="30" width="40" /></a>
-###
+
 
 
